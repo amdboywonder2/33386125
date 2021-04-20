@@ -1,0 +1,12 @@
+{
+    "w": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFAAAAAAAAAABQAAAAAAAFAFAFAAAAAAVVUAXwAAAABVVVVfAAAAAFVVVV8AAAAAVVUAXwAAAADwBQBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fish trophy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
